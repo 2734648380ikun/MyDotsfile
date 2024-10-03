@@ -1,0 +1,52 @@
+[2024-10-02 11:38:17.216] [info]  [1924d04ddf7][hot update] ------------ app 启动分界线 ------------
+[2024-10-02 11:38:17.227] [info]  [1924d04ddf7][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 11:38:17.227] [info]  [1924d04ddf7][hot update] hotUpdateApi clearOldVersions start
+[2024-10-02 11:38:17.235] [info]  [1924d04ddf7][hot update] {
+  "baseVersion": "3.2.12-28418",
+  "curVersion": "3.2.12-28418",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "28418",
+  "unzipRetryCount": 0
+}
+[2024-10-02 11:38:17.604] [info]  [1924d04ddf7][hot update] ----- startUpdate -----
+[2024-10-02 11:38:17.614] [info]  [1924d04ddf7][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 11:38:17.614] [info]  [1924d04ddf7][hot update] hotUpdateApi start check  3.2.12-27597  IsOnErrorVersion
+[2024-10-02 11:38:17.614] [info]  [1924d04ddf7][hot update] hotUpdateApi checkIsOnErrorVersion result: false
+[2024-10-02 11:38:17.615] [info]  [1924d04ddf7][hot update] [startUpdate] 无需更新
+[2024-10-02 13:46:38.304] [info]  [1924d7b889d][hot update] setLauncherCounts suc 1
+[2024-10-02 14:17:23.446] [info]  [1924d97b1b6][hot update] setLauncherCounts suc 1
+[2024-10-02 14:17:35.429] [info]  [1924d97cb44][hot update] setLauncherCounts suc 1
+[2024-10-02 14:17:58.292] [info]  [1924d982640][hot update] setLauncherCounts suc 1
+[2024-10-02 14:18:47.134] [info]  [1924d9876f9][hot update] ------------ app 启动分界线 ------------
+[2024-10-02 14:18:47.178] [info]  [1924d9876f9][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 14:18:47.179] [info]  [1924d9876f9][hot update] hotUpdateApi clearOldVersions start
+[2024-10-02 14:18:47.181] [info]  [1924d9876f9][hot update] {
+  "baseVersion": "3.2.12-28418",
+  "curVersion": "3.2.12-28418",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "28418",
+  "unzipRetryCount": 0
+}
+[2024-10-02 14:18:47.493] [info]  [1924d9876f9][hot update] ----- startUpdate -----
+[2024-10-02 14:18:47.516] [info]  [1924d9876f9][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 14:18:47.520] [info]  [1924d9876f9][hot update] hotUpdateApi start check  3.2.12-27597  IsOnErrorVersion
+[2024-10-02 14:18:47.521] [info]  [1924d9876f9][hot update] hotUpdateApi checkIsOnErrorVersion result: false
+[2024-10-02 14:18:47.524] [info]  [1924d9876f9][hot update] [startUpdate] 无需更新
+[2024-10-02 14:24:09.960] [info]  [1924d9dd1f6][hot update] ------------ app 启动分界线 ------------
+[2024-10-02 14:24:09.983] [info]  [1924d9dd1f6][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 14:24:09.983] [info]  [1924d9dd1f6][hot update] hotUpdateApi clearOldVersions start
+[2024-10-02 14:24:09.984] [info]  [1924d9dd1f6][hot update] {
+  "baseVersion": "3.2.12-28418",
+  "curVersion": "3.2.12-28418",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "28418",
+  "unzipRetryCount": 0
+}
+[2024-10-02 14:24:10.084] [info]  [1924d9dd1f6][hot update] ----- startUpdate -----
+[2024-10-02 14:24:10.089] [info]  [1924d9dd1f6][hot update] hotUpdateApi checkHasMultipleQQ:  false
+[2024-10-02 14:24:10.091] [info]  [1924d9dd1f6][hot update] hotUpdateApi start check  3.2.12-27597  IsOnErrorVersion
+[2024-10-02 14:24:10.091] [info]  [1924d9dd1f6][hot update] hotUpdateApi checkIsOnErrorVersion result: false
+[2024-10-02 14:24:10.092] [info]  [1924d9dd1f6][hot update] [startUpdate] 无需更新

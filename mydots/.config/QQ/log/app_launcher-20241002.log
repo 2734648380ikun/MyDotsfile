@@ -1,0 +1,64 @@
+[1924d04ddf7][2024/10/2 11:36:57][INFO] 不存在 /home/lee/.config/QQ/versions/config.json，将自动创建。内容为：
+{
+  "baseVersion": "3.2.12-28418",
+  "curVersion": "3.2.12-28418",
+  "prevVersion": "",
+  "onErrorVersions": [],
+  "buildId": "28418",
+  "unzipRetryCount": 0
+}
+[1924d04ddf7][2024/10/2 11:36:57][INFO] launcherCounts 写入成功: 1
+[1924d04ddf7][2024/10/2 11:36:57][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d04ddf7][2024/10/2 11:36:57][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d04ddf7][2024/10/2 11:36:57][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d7b889d][2024/10/2 13:46:34][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d7b889d][2024/10/2 13:46:34][INFO] launcherCounts 写入成功: 2
+[1924d7b889d][2024/10/2 13:46:34][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d7b889d][2024/10/2 13:46:34][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d7b889d][2024/10/2 13:46:34][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d97b1b6][2024/10/2 14:17:20][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d97b1b6][2024/10/2 14:17:20][INFO] launcherCounts 写入成功: 2
+[1924d97b1b6][2024/10/2 14:17:20][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d97b1b6][2024/10/2 14:17:20][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d97b1b6][2024/10/2 14:17:20][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d97cb44][2024/10/2 14:17:26][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d97cb44][2024/10/2 14:17:26][INFO] launcherCounts 写入成功: 2
+[1924d97cb44][2024/10/2 14:17:26][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d97cb44][2024/10/2 14:17:26][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d97cb44][2024/10/2 14:17:26][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d982640][2024/10/2 14:17:49][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d982640][2024/10/2 14:17:49][INFO] launcherCounts 写入成功: 2
+[1924d982640][2024/10/2 14:17:49][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d982640][2024/10/2 14:17:49][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d982640][2024/10/2 14:17:49][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d9876f9][2024/10/2 14:18:10][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d9876f9][2024/10/2 14:18:10][INFO] launcherCounts 写入成功: 2
+[1924d9876f9][2024/10/2 14:18:10][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d9876f9][2024/10/2 14:18:10][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d9876f9][2024/10/2 14:18:10][INFO] 
+---------- 成功的分割线 ----------
+
+
+[1924d9dd1f6][2024/10/2 14:24:01][INFO] /home/lee/.config/QQ/versions/config.json 存在
+[1924d9dd1f6][2024/10/2 14:24:01][INFO] launcherCounts 写入成功: 2
+[1924d9dd1f6][2024/10/2 14:24:01][INFO] /home/lee/.config/QQ/versions/3.2.12-28418.zip 不存在，无需执行解压操作
+[1924d9dd1f6][2024/10/2 14:24:01][INFO] 从安装目录加载主进程代码: /opt/QQ/resources/app/application/background.js
+[1924d9dd1f6][2024/10/2 14:24:01][INFO] 
+---------- 成功的分割线 ----------
+
+
